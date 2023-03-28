@@ -29,6 +29,12 @@
 - Clean Code
 - Modules
 - Reusuble Component
+- Database
+- Sqflite
+- Update 
+- Delete 
+- Insert
+- Create
 - and More...
 
 # Plugins
