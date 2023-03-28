@@ -25,7 +25,7 @@
 - Firebase Storage
 - Firebase Funcation
 - MVVM 
-- bootomNavigation
+- BottomNavigation
 - Clean Code
 - Modules
 - Reusuble Component
