@@ -29,7 +29,7 @@
 - Clean Code
 - Modules
 - Reusuble Component
- and More...
+- and More...
 
 # Plugins
 - Google SingIn
