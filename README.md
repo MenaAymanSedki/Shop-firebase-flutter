@@ -16,7 +16,7 @@
 ![Content](https://user-images.githubusercontent.com/84380262/227994299-ef98461c-4860-4f2a-a48b-8c3d05a14663.png)
 
 # Coding
-- GetxController
+- GetxManagment
 - Widgets
 - Obx
 - Firebase
